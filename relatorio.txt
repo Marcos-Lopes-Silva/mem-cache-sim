@@ -1,0 +1,5 @@
+Relatório
+Miss: 31
+Hit: 9
+Miss rate: 77,50%
+Hit rate: 22,50%
